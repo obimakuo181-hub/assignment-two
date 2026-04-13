@@ -1,0 +1,45 @@
+.all-container{
+  display: flexbox;
+  border: 1px solid black;
+  width: 50%;
+  align-items: center;
+  justify-self: center;
+  background-image: linear-gradient(lightblue, darkblue);
+}
+.placeholder-container{
+  justify-content: center;
+  align-items: center;
+}
+.place-1{
+  padding: 10px 20px;
+}
+.text-1{
+ display: inline;
+}
+.text-2{
+ display: inline;
+ margin-left: 15px;
+}
+.btn-1{
+  padding: 10px 60px;
+  margin-left: 60px;
+  background-color: transparent;
+  border-radius: 40px;
+}
+.btn-2{
+  padding: 10px 60px;
+  margin-left: 60px;
+  background-color: transparent;
+  border-radius: 40px;
+}
+.btn-2:hover{
+  background-color: turquoise;
+  color: white;
+  cursor: pointer;
+}
+.btn-1:hover{
+  background-color: turquoise;
+  color: white;
+  cursor: pointer;
+}
+
