@@ -8,13 +8,7 @@ body{
 p{
   font-size: 30px;
 }
-.main-contents{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  
-}
+
 .logo{
     width: 50vh;
     height: 50vh;
@@ -25,10 +19,12 @@ p{
   border-radius: 50%;
   height: 10vh;
   width:auto;
+  margin-top: 250px;
+  
 
 }
 .hero{
-  width: 50vh;
+  width: 70vh;
   height: 50vh;
   border-radius: 5px;
   justify-content: center;
@@ -50,6 +46,7 @@ img{
   cursor: pointer;
   margin-right: 10px;
   width: 200px;
+  
 }
 .btn:hover{
   background-color: black;
@@ -60,12 +57,13 @@ img:hover{
   transform: scale(1.05);
   transition: 0.5s  ease-in-out;
 }
-span{
+#spane{
   color: rgb(23, 87, 176);
   font-size: 50px;
   font-weight: bold;
 }
 .text-container{
+  justify-self: center;
   margin-left: 10px;
 }
 .text{
@@ -73,6 +71,21 @@ span{
   font-size: 20px;
   font-weight: bold;
 }
-.first-text{
-  
+.nav-container{
+ align-items: center;
+ justify-content: center;
+ justify-self: center; 
 }
+h1{
+  margin-left: 10px;
+}
+.span-2{
+  margin-left: 15px;
+}
+.btn-main{
+  justify-self: center;
+}
+figure{
+  justify-self: center;
+}
+
