@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(0, 0, 9);
+}
+
+.text-conatiner-1{
+ justify-self: center;
+ color: white;
+}
+.news{
+  color: rgba(190, 128, 248, 0.899);
+}
+.text-2{
+  margin-left: 70px;
+}
+.text-3{
+  margin-left: 10px;
+}
