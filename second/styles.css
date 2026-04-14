@@ -35,12 +35,14 @@ body{
   margin-top: 50px;
   background-color: transparent;
   border-radius: 40px;
+  color: white;
 }
 .btn-2{
   padding: 10px 60px;
   margin-left: 60px;
   background-color: transparent;
   border-radius: 40px;
+  color: white;
 }
 .btn-2:hover{
   background-color: rgb(17, 50, 237);
