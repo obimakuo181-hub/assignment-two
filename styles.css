@@ -1,3 +1,9 @@
+p{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
 #nav-container{
   align-items: baseline;
   width: 100%;
@@ -67,9 +73,13 @@ span{
   /* second part */
 
 #container{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   margin-top: 50px;
   display: flex;
-  gap: 200px;
+  gap: 60px;
 }
 img{
   margin-left: 100px;
@@ -78,6 +88,7 @@ img{
 }
 .text-container{
   margin-left: 30px;
+  width: 1000px;
 }
 #center{
   color: purple;
@@ -97,8 +108,12 @@ span{
   display: flex;
 }
 button{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   width:fit-content;
-  padding: 10px 5px;
+  padding: 10px 20px;
   border-radius: 30px;
 
 }
